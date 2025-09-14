@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_anant_tiwari" target="blank"> </a> </p>
 
- 💬 I'm currently a second-year student pursuing a B.Tech in Artificial Intelligence and Machine Learning at NIET. I’m passionate about AI, machine learning, data science, and software development. I enjoy learning new technologies and applying them to solve real-world problems. On this GitHub, you'll find my coding projects, coursework, and other contributions in the field of AI and ML.
+ 💬 I'm currently a third year  student pursuing a B.Tech in Artificial Intelligence and Machine Learning at NIET. I’m passionate about AI, machine learning, data science, and software development. I enjoy learning new technologies and applying them to solve real-world problems. On this GitHub, you'll find my coding projects, coursework, and other contributions in the field of AI and ML.
 
 
 🌱 I’m currently learning:
