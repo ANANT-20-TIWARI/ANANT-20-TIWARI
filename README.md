@@ -110,9 +110,10 @@ Pure Python implementations of core ML algorithms to strengthen conceptual under
 ---
 
 ## 📫 Connect With Me
-
-- LinkedIn:https://www.linkedin.com/in/anant-20-tiwari/
-- <a href="ananttiwari1114@gmail.com">ananttiwari114@gmail.com</a>
+[LinkedIn](https://www.linkedin.com/in/anant-20-tiwari/) •
+[LeetCode](https://leetcode.com/u/AT_20/) •
+[Email](mailto:ananttiwari114@gmail.com) •
+📧 ananttiwari114@gmail.com
 
 ---
 
