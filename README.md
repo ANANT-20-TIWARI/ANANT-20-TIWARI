@@ -2,8 +2,9 @@
 <h3 align="center">Machine Learning Engineer | Python • Deep Learning • Applied ML</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anant-20-tiwari/"</a> •
-  <a href="ananttiwari114@gmail.com">Email</a>
+[LinkedIn](https://www.linkedin.com/in/anant-20-tiwari/) •
+[Email](mailto:ananttiwari114@gmail.com)
+
 </p>
 
 <p align="center">
