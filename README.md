@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anant Tiwari</h1>
 <h3 align="center">Machine Learning Engineer | Python • Deep Learning • Applied ML</h3>
-
 <p align="center">
-[LinkedIn](https://www.linkedin.com/in/anant-20-tiwari/) •
-[Email](mailto:ananttiwari114@gmail.com)
-
+  <a href="https://www.linkedin.com/in/anant-20-tiwari/">LinkedIn</a> •
+  <a href="mailto:ananttiwari114@gmail.com">Email</a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANANT-20-TIWARI&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
