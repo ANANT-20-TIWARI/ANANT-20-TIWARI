@@ -1,68 +1,70 @@
 <h1 align="center">Hi 👋, I'm Anant Tiwari</h1>
-<h3 align="center">Machine Learning Engineer | Python • Deep Learning • MLOps</h3>
+<h3 align="center">Machine Learning Engineer | Python • Deep Learning • Applied ML</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anant-tiwari-05531288">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/anant-20-tiwari/>LinkedIn</a> •
+  <a href="ananttiwari114@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANANT-20-TIWARI&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, focused on building **practical, end-to-end Machine Learning systems**.
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, focused on building **practical and reliable ML systems** rather than just theoretical models.
 
-I work on real ML problems involving **data preprocessing, model training, evaluation, and deployment**.  
-I value **clarity, metrics, and reproducibility** over buzzwords.
+I’ve worked on the **complete ML lifecycle** — from data preprocessing and feature engineering to model training, evaluation, and basic deployment.  
+I care about **why a model works**, not just making it run.
 
 ---
 
-## Tech Stack
+## 🧠 What I’ve Learned So Far
 
-**Languages**  
+**Machine Learning**
+- Supervised & Unsupervised Learning
+- Classification, Regression, Clustering
+- Feature Engineering & Data Preprocessing
+- Model Evaluation (accuracy, precision, recall, F1, confusion matrix)
+
+**Deep Learning**
+- Neural Networks fundamentals
+- CNNs for image-based tasks
+- Training loops, loss functions, optimizers
+- Working with PyTorch & TensorFlow
+
+**Data Handling**
+- Data cleaning and transformation using Pandas & NumPy
+- Exploratory Data Analysis (EDA)
+- Visualization for insights
+
+**Deployment Basics**
+- Creating inference APIs using Flask
+- Containerizing ML apps using Docker (basic)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 - Python  
 
-**Machine Learning / Deep Learning**  
+**ML / DL**
 - Scikit-learn  
 - PyTorch  
 - TensorFlow  
 
-**Data & Visualization**  
+**Data & Visualization**
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 
-**Deployment & Tools**  
+**Tools & Workflow**
+- Git & GitHub  
+- Jupyter Notebook  
 - Flask  
-- Docker (basic)  
-- Git, Jupyter Notebook  
-
----
-
-## Current Focus
-
-- Building ML models for **classification and regression** problems  
-- Applying **feature engineering and evaluation metrics** to improve performance  
-- Learning and implementing **deep learning architectures** using PyTorch  
-- Developing **deployable ML projects** instead of isolated notebooks  
-
----
-
-## Featured Projects
-
-### 🔹 Customer Churn Prediction
-End-to-end machine learning pipeline including data cleaning, feature engineering, model comparison, and Flask-based deployment.
-
-### 🔹 Image Classification using CNN
-Deep learning project built with PyTorch, including custom dataset handling, training loop, and evaluation metrics.
-
-### 🔹 Machine Learning Algorithms from Scratch
-Implementation of core ML algorithms using pure Python to strengthen conceptual understanding.
-
-> Repositories are structured with clear READMEs, reproducible code, and documented results.
-
----
-
-## Tools I Use
+- Docker (basic)
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
@@ -74,21 +76,44 @@ Implementation of core ML algorithms using pure Python to strengthen conceptual 
 
 ---
 
-## How I Work
+## 🚀 Featured Projects
 
-- Clean, readable code  
-- Proper train / test splits  
-- Metric-driven evaluation  
-- Version-controlled experiments  
-- Focus on **learning depth, not tool count**
+### 🔹 Customer Churn Prediction
+An end-to-end ML project involving data cleaning, feature engineering, model comparison, and deployment using Flask.
 
----
+### 🔹 Image Classification using CNN
+Deep learning project using PyTorch to classify images, including dataset handling, training pipeline, and evaluation metrics.
 
-## Connect With Me
+### 🔹 Machine Learning Algorithms from Scratch
+Pure Python implementations of core ML algorithms to strengthen conceptual understanding.
 
-- LinkedIn: https://www.linkedin.com/in/anant-tiwari-05531288  
-- Email: yourmail@gmail.com  
+> Each project is structured with a clear README, reproducible code, and documented results.
 
 ---
 
-⭐ If you’re interested in ML systems that actually work, feel free to explore my repositories.
+## 🎯 Current Focus
+
+- Strengthening fundamentals of Machine Learning & Deep Learning  
+- Building **end-to-end ML projects** instead of isolated notebooks  
+- Improving model performance through better data and evaluation  
+- Learning how real-world ML systems are built and deployed  
+
+---
+
+## 🧩 How I Think & Work
+
+- I prioritize **clean data before complex models**
+- I evaluate models using proper metrics, not guesses
+- I document experiments and results clearly
+- I focus on **depth over hype**
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/anant-20-tiwari/ 
+- Email:ananttiwari1114@gmail.com 
+
+---
+
+⭐ If you’re interested in practical Machine Learning projects and real-world problem solving, feel free to explore my repositories.
