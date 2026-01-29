@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anant Tiwari</h1>
+<h1 align="center">Hi  I'm Anant Tiwari</h1>
 <h3 align="center">Machine Learning Engineer | Python • Deep Learning • Applied ML</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-20-tiwari/">LinkedIn</a> •
