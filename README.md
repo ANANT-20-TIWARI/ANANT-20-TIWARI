@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:
 B.Tech student specializing in Artificial Intelligence & Machine Learning 🤖 with hands-on experience in designing and deploying end-to-end ML systems. Strong foundation in data preprocessing, feature engineering, model development, and evaluation using performance-driven metrics 📊.<br><br>Skilled in building reproducible pipelines, analyzing model failure modes, and optimizing for generalization and scalability 📈. Experience integrating ML models into applications via API-based deployment, with a focus on system reliability and practical usability ⚙️.<br><br>Approach machine learning as an engineering problem — prioritizing data quality, interpretability, and performance over theoretical assumptions.
 
