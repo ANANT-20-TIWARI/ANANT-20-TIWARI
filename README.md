@@ -1,120 +1,27 @@
-<h1 align="center">Hi  I'm Anant Tiwari</h1>
-<h3 align="center">Machine Learning Engineer | Python • Deep Learning • Applied ML</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anant-20-tiwari/">LinkedIn</a> •
-  <a href="mailto:ananttiwari1114@gmail.com">Email</a>
-</p>
+# 💫 About Me:
+B.Tech student specializing in Artificial Intelligence & Machine Learning 🤖 with hands-on experience in designing and deploying end-to-end ML systems. Strong foundation in data preprocessing, feature engineering, model development, and evaluation using performance-driven metrics 📊.<br><br>Skilled in building reproducible pipelines, analyzing model failure modes, and optimizing for generalization and scalability 📈. Experience integrating ML models into applications via API-based deployment, with a focus on system reliability and practical usability ⚙️.<br><br>Approach machine learning as an engineering problem — prioritizing data quality, interpretability, and performance over theoretical assumptions.
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANANT-20-TIWARI&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ANANT-20-TIWARI) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anant_tiwari.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ANANT-20-TIWARI) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ANANT-20-TIWARI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ANANT-20-TIWARI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANANT-20-TIWARI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ANANT-20-TIWARI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, focused on building **practical and reliable ML systems** rather than just theoretical models.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I’ve worked on the **complete ML lifecycle** — from data preprocessing and feature engineering to model training, evaluation, and basic deployment.  
-I care about **why a model works**, not just making it run.
-
----
-
-## 🧠 What I’ve Learned So Far
-
-**Machine Learning**
-- Supervised & Unsupervised Learning
-- Classification, Regression, Clustering
-- Feature Engineering & Data Preprocessing
-- Model Evaluation (accuracy, precision, recall, F1, confusion matrix)
-
-**Deep Learning**
-- Neural Networks fundamentals
-- CNNs for image-based tasks
-- Training loops, loss functions, optimizers
-- Working with PyTorch & TensorFlow
-
-**Data Handling**
-- Data cleaning and transformation using Pandas & NumPy
-- Exploratory Data Analysis (EDA)
-- Visualization for insights
-
-**Deployment Basics**
-- Creating inference APIs using Flask
-- Containerizing ML apps using Docker (basic)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ANANT-20-TIWARI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ANANT-20-TIWARI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages**
-- Python  
-
-**ML / DL**
-- Scikit-learn  
-- PyTorch  
-- TensorFlow  
-
-**Data & Visualization**
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-
-**Tools & Workflow**
-- Git & GitHub  
-- Jupyter Notebook  
-- Flask  
-- Docker (basic)
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Customer Churn Prediction
-An end-to-end ML project involving data cleaning, feature engineering, model comparison, and deployment using Flask.
-
-### 🔹 Image Classification using CNN
-Deep learning project using PyTorch to classify images, including dataset handling, training pipeline, and evaluation metrics.
-
-### 🔹 Machine Learning Algorithms from Scratch
-Pure Python implementations of core ML algorithms to strengthen conceptual understanding.
-
-> Each project is structured with a clear README, reproducible code, and documented results.
-
----
-
-## 🎯 Current Focus
-
-- Strengthening fundamentals of Machine Learning & Deep Learning  
-- Building **end-to-end ML projects** instead of isolated notebooks  
-- Improving model performance through better data and evaluation  
-- Learning how real-world ML systems are built and deployed  
-
----
-
-## 🧩 How I Think & Work
-
-- I prioritize **clean data before complex models**
-- I evaluate models using proper metrics, not guesses
-- I document experiments and results clearly
-- I focus on **depth over hype**
-
----
-
-## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/anant-20-tiwari/) •
-[LeetCode](https://leetcode.com/u/AT_20/) •
-[Email](mailto:ananttiwari114@gmail.com) •
-📧 ananttiwari114@gmail.com
-
----
-
-⭐ If you’re interested in practical Machine Learning projects and real-world problem solving, feel free to explore my repositories.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
